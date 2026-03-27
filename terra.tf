@@ -12,3 +12,4 @@ resource "azurerm_resource_group" "rg"
  address_space = ["10.0.0.0/24"]
  
 }
+keep on track
